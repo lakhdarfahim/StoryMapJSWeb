@@ -81,7 +81,7 @@
 + **Activités et services** : Opérateurs de télécommunications terrestres, Services Internet, Services de télécommunications.
 + **Adresse** : 37-39 Rue Boissiere 75116 PARIS 16.
 + **Forme économique** : Société anonyme à conseil d'administration.
-+ **Chiffre d'affaire** : en 2015, Plus de 500 millions d'EUR.
++ **Chiffre d'affaire** : en 2015, plus de 500 millions d'EUR.
 
 ###SFR 
 
@@ -93,6 +93,36 @@
 + **Chiffre d'affaire** : en 2015, Plus de 500 millions d'EUR.
 
 ##Video a la demande
+
+###CANALPLAY
+
++ **Lien du site** : http://www.canalplay.com/decouvrir
++ **Effectifs** : De 0 à 9 Employés.
++ **Activités et services** : Distribution de films et programmes pour le cinéma, la radio et la télévision.
++ **Adresse** : 1 Place du Spectacle 92130 Issy Les Moulineaux.
++ **Forme économique** : Société par actions simplifiée.
++ **Chiffre d'affaire** : en 2015, de 25 à 50 millions d'EUR.
+
+###PARAMOUNT HOME ENTERTAINMENT
+
++ **Lien du site** : http://www.paramountpictures.fr/
++ **Effectifs** : De 20 à 49 Employés.
++ **Activités et services** : Distribution de films et programmes pour le cinéma, la radio et la télévision.
++ **Adresse** : 117 Rue D'Aguesseau 92100 Boulogne Billancourt.
++ **Forme économique** : Société par actions simplifiée.
++ **Chiffre d'affaire** : en 2015, de 50 à 100 millions d'EUR.
+
+###TV BREIZH
+
++ **Lien du site** : http://www.tvbreizh.fr/
++ **Effectifs** : De 20 à 49 Employés.
++ **Activités et services** : Distribution de films et programmes pour le cinéma, la radio et la télévision. Services de diffusion radiophonique et télévisuelle, Opérateurs de radio et de télévision.
++ **Adresse** : 1 Quai du Point du Jour 92100 Boulogne Billancourt.
++ **Forme économique** : Société par actions simplifiée.
++ **Chiffre d'affaire** : en 2015, de 10 à 25 millions d'EUR.
+
+
+
 
 
 
