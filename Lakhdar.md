@@ -25,7 +25,7 @@
 + **Activités et services** : Producteur/Distributeur/Prestataire de services, édition de jeux de société et de jeux vidéo.
 + **Adresse** :  38-42 Rue Cuvier 93100 Montreuil sous Bois.
 + **Forme économique** : Société à responsabilité limitée (SARL).
-+ **Chiffre d'affaire** : en 2016,	de 10 à 25 millions d'EUR.
++ **Chiffre d'affaire** : en 2016, de 10 à 25 millions d'EUR.
 
 ###JLA GAMES
 
@@ -90,7 +90,7 @@
 + **Activités et services** : Opérateurs de télécommunications terrestres, Services Internet.
 + **Adresse** : 1 Square Bela Bartok 75015 PARIS 15.
 + **Forme économique** : Société anonyme à conseil d'administration.
-+ **Chiffre d'affaire** : en 2015, Plus de 500 millions d'EUR.
++ **Chiffre d'affaire** : en 2015, plus de 500 millions d'EUR.
 
 ##Video a la demande
 
@@ -120,6 +120,24 @@
 + **Adresse** : 1 Quai du Point du Jour 92100 Boulogne Billancourt.
 + **Forme économique** : Société par actions simplifiée.
 + **Chiffre d'affaire** : en 2015, de 10 à 25 millions d'EUR.
+
+###TF1 
+
++ **Lien du site** : http://www.tf1.fr/
++ **Effectifs** : De 10 à 19 Employés.
++ **Activités et services** : Production cinématographique.
++ **Adresse** : 1 Quai du Point du Jour 92100 Boulogne Billancourt.
++ **Forme économique** : Société par actions simplifiée.
++ **Chiffre d'affaire** : en 2015, de 25 à 50 millions d'EUR.
+
+###ARTE
+
++ **Lien du site** : http://www.arte.tv/fr
++ **Effectifs** : De 20 à 49 Employés.
++ **Activités et services** : Production cinématographique.
++ **Adresse** : 8 Rue Marceau 92130 Issy Les Moulineaux.
++ **Forme économique** : Société anonyme à conseil d'administration
++ **Chiffre d'affaire** : en 2015, de 5 à 10 millions d'EUR.
 
 
 
