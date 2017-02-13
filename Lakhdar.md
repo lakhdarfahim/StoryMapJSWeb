@@ -24,10 +24,24 @@
 + **Effectifs** : De 20 à 49 Employés.
 + **Activités et services** : Producteur/Distributeur/Prestataire de services, édition de jeux de société et de jeux vidéo.
 + **Adresse** :  38-42 Rue Cuvier 93100 Montreuil sous bois.
-+ ** Forme économique** : Société à responsabilité limitée (SARL).
-+ ** Chiffre d'affaire** : en 2016,	de 10 à 25 millions EUR.
++ **Forme économique** : Société à responsabilité limitée (SARL).
++ **Chiffre d'affaire** : en 2016,	de 10 à 25 millions EUR.
 
-###
+###JLA GAMES
+
++ **Lien du site** : http://www.groupe-jla.com/jla-games/
++ **Effectifs** : De 0 à 9 Employés.
++ **Activités et services** : Producteur/Distributeur/Prestataire de services, édition de jeux de société et de jeux vidéo.
++ **Forme économique** : Société à responsabilité limitée (SARL).
++ **Chiffre d'affaire** : en 2015,	moins de 500 000 EUR.
+
+###GRAVITY EUROPE
+
++ **Lien du site** : https://www.gravity-gateway.com/
++ **Effectifs** : De 0 à 9 Employés.
++ **Activités et services** : Producteur/Distributeur/Prestataire de services, édition de jeux de société et de jeux vidéo.
++ **Forme économique** : Société par actions simplifiée.
++ **Chiffre d'affaire** : en 2013, de 500.000 à 1 million EUR.
 
 
 
