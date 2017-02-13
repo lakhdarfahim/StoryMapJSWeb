@@ -80,7 +80,19 @@
 + **Effectifs** : De 50 à 99 Employés.
 + **Activités et services** : Opérateurs de télécommunications terrestres, Services Internet, Services de télécommunications.
 + **Adresse** : 37-39 Rue Boissiere 75116 PARIS 16.
-+ **Forme économique** :
++ **Forme économique** : Société anonyme à conseil d'administration.
++ **Chiffre d'affaire** : en 2015, Plus de 500 millions d'EUR.
+
+###SFR 
+
++ **Lien du site** : http://www.sfr.fr/
++ **Effectifs** : De 1 000 à 4 999 Employés.
++ **Activités et services** : Opérateurs de télécommunications terrestres, Services Internet.
++ **Adresse** : 1 Square Bela Bartok 75015 PARIS 15.
++ **Forme économique** : Société anonyme à conseil d'administration.
++ **Chiffre d'affaire** : en 2015, Plus de 500 millions d'EUR.
+
+##Video a la demande
 
 
 
@@ -107,5 +119,7 @@
 
 
 
-Reseau et télécom
-Video a la demande
+
+
+
+
